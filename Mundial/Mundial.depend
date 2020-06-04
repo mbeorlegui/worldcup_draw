@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1532725420 source:c:\users\marcelo\desktop\tp algoritmos\mundial\main.cpp
+	<iostream>
+	<stdlib.h>
+	<time.h>
+	<cstring>
+
+1532725420 source:c:\users\ray\desktop\facultad\programming\ayed\tp algoritmos\mundial\main.cpp
+	<iostream>
+	<stdlib.h>
+	<time.h>
+	<cstring>
+
