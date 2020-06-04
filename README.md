@@ -1,5 +1,5 @@
 # worldcup_draw
-Trabajo práctico grupal para la materia Algoritmos y Estructuras de Datos que simula sorteos del mundial.
+Trabajo práctico grupal para la materia Algoritmos y Estructuras de Datos que simula sorteos del mundial y registra goles.
 
 El programa "Mundial" simula el armado de grupo con los equipos clasificados y siguiendo las normativas FIFA aplicadas para el evento
 en cuanto a equipos por federación y otras cuestiones detalladas en las consignas.
